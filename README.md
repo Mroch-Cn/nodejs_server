@@ -25,3 +25,4 @@ var sayBye = function(){
 js中模块的导入
 ## 事件
 element,in()
+可以继承
